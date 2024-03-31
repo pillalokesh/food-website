@@ -4,6 +4,12 @@
     font-family: sans-serif;
 
 }
+header{
+   background: linear-gradient(180deg, black, lightgray);
+   padding: 10px 0;
+   color: aliceblue;
+   align-items: center;
+}
 nav{
     margin: 20px 50px;
     display: flex;
